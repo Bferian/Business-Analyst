@@ -18,7 +18,7 @@ The dashboard was built entirely in **HTML/CSS/JavaScript**, with no frameworks,
 ## 🖥️ Preview
 
 ### Page 1 — Executive Overview
-![Visão Geral](screenshots/Visão Geral)
+![VisãoGeral](screenshots/VisãoGeral)
 
 ### Page 2 — Geographic Analysis
 ![Geografia](screenshots/Geografia)
