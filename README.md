@@ -15,6 +15,25 @@ The dashboard was built entirely in **HTML/CSS/JavaScript**, with no frameworks,
 
 ---
 
+## 🖥️ Preview
+
+### Page 1 — Executive Overview
+![Visão Geral](screenshots/Visão Geral)
+
+### Page 2 — Geographic Analysis
+![Geografia](screenshots/Geografia)
+
+### Page 3 — Products & Categories
+![Produtos](screenshots/Produtos)
+
+### Page 4 — Commercial Performance
+![Comercial](screenshots/Comercial)
+
+### Page 5 — Strategic Insights
+![Insight](screenshots/Insight)
+
+---
+
 ## 💡 Key Insights
 
 | # | Insight | Impact |
@@ -81,4 +100,4 @@ Requires internet connection to load charts (Chart.js and Leaflet via CDN).
 
 Project developed by **Ferian** as part of a portfolio for transitioning into **Business Analyst** roles.
 
-Connect with me on [https://www.linkedin.com/in/bferian](#)
+Connect with me on [https://www.linkedin.com/in/bferian]
